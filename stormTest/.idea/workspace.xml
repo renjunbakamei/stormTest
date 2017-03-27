@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordNormalizer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordNormalizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stormtest/src/main/java/bolts/WordNormalizer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="458">
@@ -54,6 +54,20 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#1968#1969#0" expanded="true" />
                 <element signature="e#1995#1996#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCounter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stormtest/src/main/java/bolts/WordCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-189">
+              <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2153#2154#0" expanded="true" />
+                <element signature="e#2180#2181#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,6 +93,7 @@
         <option value="$PROJECT_DIR$/stormtest/pom.xml" />
         <option value="$PROJECT_DIR$/stormtest/src/main/java/spouts/WordReader.java" />
         <option value="$PROJECT_DIR$/stormtest/src/main/java/bolts/WordNormalizer.java" />
+        <option value="$PROJECT_DIR$/stormtest/src/main/java/bolts/WordCounter.java" />
       </list>
     </option>
   </component>
@@ -96,10 +111,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="495" />
-    <option name="y" value="24" />
+    <option name="x" value="607" />
+    <option name="y" value="9" />
     <option name="width" value="1038" />
-    <option name="height" value="876" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -628,15 +643,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490600800868</updated>
-      <workItem from="1490600804603" duration="5773000" />
+      <workItem from="1490600804603" duration="6549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5773000" />
+    <option name="totallyTimeSpent" value="6549000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="495" y="24" width="1038" height="876" extended-state="0" />
+    <frame x="607" y="9" width="1038" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -660,7 +675,7 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="1100" y="387" width="444" height="169" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33006993" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31083843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -720,6 +735,18 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1968#1969#0" expanded="true" />
             <element signature="e#1995#1996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stormtest/src/main/java/bolts/WordCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
           </folding>
         </state>
       </provider>
